@@ -4,7 +4,7 @@
 
 ### Step 1 {Architecture}
 
-#### Firstly, Firstly let's see the architecture diagram below -
+#### Firstly, let's see the architecture diagram below -
 
 ![alt text](image.png)
 
