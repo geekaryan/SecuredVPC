@@ -50,6 +50,12 @@
 
 #### Now you can run you application in Internet , even through you cannot directly access the server and make changes to it.
 
+### ScreenShots
+
+![alt text](ec2.jpeg)
+
+![alt text](server.jpeg)
+
 ### If you have more improvements to this feel free to contribute
 
 #### Thank you
